@@ -17,7 +17,7 @@ It includes code to:
     * Diversity Focused Two (DFTWO) (see [Considering diversity and accuracy simultaneously for ensemble pruning](https://doi.org/10.1016/j.asoc.2017.04.058) [Dai et al., 2017])
     * Accuracy Reinforcement (ACCREIN) (see [Considering diversity and accuracy simultaneously for ensemble pruning](https://doi.org/10.1016/j.asoc.2017.04.058) [Dai et al., 2017])
 
---
+---
 
 ## Installation / Reproducing Results
 
@@ -90,6 +90,6 @@ README.md                               # This file
 
 ## Acknowledgments
 
-Code, which has been taken from other sources, has been marked. The code for many of the pruning algorithms (and the module structure) is based on the [PyPruning](https://github.com/sbuschjaeger/PyPruning) library by Sebastian Buschjäger. The Unet implementation used is taken from the [Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) GitHub Repository by Alexandre Milesi. The FC-siam-conc implementation used was made by one of the authors of the paper himself (Rodrigo Caye Daudt) and can be found ...
+Code, which has been taken from other sources, has been marked. The code for many of the pruning algorithms (and the module structure) is based on the [PyPruning](https://github.com/sbuschjaeger/PyPruning) library by Sebastian Buschjäger. The Unet implementation used is taken from the [Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) GitHub Repository by Alexandre Milesi. The FC-siam-conc implementation used was made by one of the authors of the paper himself (Rodrigo Caye Daudt) and can be found in the GitHub Repository [fully_convolutional_change_detection](https://github.com/rcdaudt/fully_convolutional_change_detection).
 
 Docstrings for functions were created with ChatGPT and then revised and corrected.
