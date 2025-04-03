@@ -40,7 +40,7 @@ The code was executed on a machine with Python 3.12.3, all dependencies are list
    pip install -r requirements.txt
    ```
 
-4. Download the datasets (S1GFloods and LandCover.aI) and save them in the /Datasets/ directory. It should have the following structure after completing this step:
+4. Download the datasets (S1GFloods [\[Download Link\]](https://drive.google.com/file/d/1W-gnUU-AaYbJ8KMdfnbrI7ySHkiKjOvo/view) and LandCover.aI [\[Download Link\]](https://landcover.ai.linuxpolska.com/download/landcover.ai.v1.zip)) and save them in the /Datasets/ directory. It should have the following structure after completing this step (rename the datasets manually):
 
     ```
     /Datasets/
